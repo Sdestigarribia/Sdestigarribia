@@ -1,4 +1,5 @@
-## Hi there 👋
+Mi carrera comenzó en el ámbito administrativo, donde adquirí habilidades valiosas en la gestión del tiempo y la capacitación de personal. Sin embargo, mi verdadera pasión siempre ha sido el desarrollo web. A lo largo de mi trayectoria, he sentido un profundo interés por la tecnología y la innovación, lo que me ha llevado a explorar nuevas fronteras en el mundo del desarrollo web.
+Mi transición hacia este campo ha sido impulsada por mi entusiasmo por aprender y adaptarme a nuevas tecnologías, así como por mi deseo de crear soluciones digitales efectivas. Estoy comprometido en combinar mi experiencia administrativa con mis habilidades en desarrollo web para abordar desafíos complejos y contribuir a proyectos que marquen la diferencia.
 
 <!--
 **Sdestigarribia/Sdestigarribia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
